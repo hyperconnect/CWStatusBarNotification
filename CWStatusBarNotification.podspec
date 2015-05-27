@@ -8,8 +8,8 @@ Pod::Spec.new do |s|
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.author       = { "Cezary Wojcik" => "me@cezarywojcik.com" }
   s.platform     = :ios, '7.0'
-  s.source = { :git => "https://github.com/cezarywojcik/CWStatusBarNotification.git",
-               :tag => s.version.to_s }
+  s.source = { :git => "https://github.com/hyperconnect/CWStatusBarNotification.git",
+               :branch => "hpcnt" }
   s.source_files  = 'CWStatusBarNotification'
   s.requires_arc = true
 end

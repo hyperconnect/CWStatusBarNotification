@@ -6,6 +6,7 @@
 //  Copyright (c) 2015 Cezary Wojcik. All rights reserved.
 //
 
+#import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
 
 /**
